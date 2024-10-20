@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Author : ALELA
+Author : ALELA J
 Receives two string arguments
 """
 import hashlib
